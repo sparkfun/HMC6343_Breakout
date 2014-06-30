@@ -19715,7 +19715,7 @@ This is the mechanical footprint for a #4 phillips button head screw. Use the ke
 <sheet>
 <plain>
 <text x="152.4" y="7.62" size="2.54" layer="94">Jordan McConnell</text>
-<text x="238.76" y="7.62" size="2.54" layer="94">v01</text>
+<text x="238.76" y="7.62" size="2.54" layer="94">v10</text>
 <text x="137.16" y="81.28" size="1.778" layer="97">I2C Address: 0x32</text>
 </plain>
 <instances>

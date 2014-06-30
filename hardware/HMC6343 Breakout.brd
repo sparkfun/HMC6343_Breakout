@@ -159,7 +159,7 @@
 <text x="10.541" y="14.732" size="1.4224" layer="22" font="vector" ratio="15" rot="SMR270">HMC6343</text>
 <text x="13.335" y="15.24" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270">Magnetometer</text>
 <text x="14.986" y="13.462" size="1.016" layer="22" font="vector" ratio="15" rot="SMR270">Breakout</text>
-<text x="19.05" y="3.81" size="1.016" layer="16" font="vector" ratio="15" rot="SMR270">v01</text>
+<text x="19.05" y="3.81" size="1.016" layer="16" font="vector" ratio="15" rot="SMR270">v10</text>
 <wire x1="1.397" y1="16.256" x2="1.397" y2="18.796" width="0.254" layer="22"/>
 <wire x1="1.397" y1="16.256" x2="3.937" y2="16.256" width="0.254" layer="22"/>
 <wire x1="1.397" y1="18.796" x2="0.889" y2="18.288" width="0.254" layer="22"/>
