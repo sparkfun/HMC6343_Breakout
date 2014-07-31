@@ -1,8 +1,8 @@
 HMC6343 Breakout
 ================
 
-[![HMC6343 Breakout](/image.jpg)
-*High End Magnetometer Breakout-HMC6343 (SEN-#####)*](productpage)
+[![HMC6343 Breakout](https://cdn.sparkfun.com/assets/learn_tutorials/2/6/5/hmc6343_angled.jpg)   
+*High End Magnetometer Breakout-HMC6343 (SEN-12916)*](https://www.sparkfun.com/products/12916)
 
 A Breakout Board for the high end HMC6343 magnetometer.
 
