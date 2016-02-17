@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map For SFE_HMC6343
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SFE_HMC6343		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+readMag			KEYWORD2
+readAccel		KEYWORD2
+readHeading		KEYWORD2
+readTilt		KEYWORD2
+enterStandby	KEYWORD2
+exitStandby		KEYWORD2
+enterSleep		KEYWORD2
+exitSleep		KEYWORD2
+enterCalMode	KEYWORD2
+exitCalMode		KEYWORD2
+setOrientation	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+LEVEL 		LITERAL1
+SIDEWAYS 	LITERAL1
+FLATFRONT	LITERAL1
