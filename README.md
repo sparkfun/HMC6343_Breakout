@@ -6,6 +6,7 @@ SparkFun HMC6343 Breakout
 [*SparkFun HMC6343 Breakout (SEN-12916)*](https://www.sparkfun.com/products/12916)
 
 A Breakout Board for the high end HMC6343 magnetometer.
+The HMC6343 is a fully integrated high end electronic compass module that can compute and give you a heading direction that’s accurate within a couple degrees.
 
 Repository Contents
 -------------------
