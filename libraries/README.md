@@ -3,11 +3,9 @@ SparkFun HMC6343 Libraries
 
 Libraries for use in different environments. 
 
-
 Directory Contents
 -------------------
 * **/Arduino** - [Arduino IDE](http://www.arduino.cc/en/Main/Software) libraries
-
 
 Update Library Instructions:
 ----------------------------
