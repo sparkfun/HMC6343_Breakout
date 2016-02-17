@@ -1,20 +1,44 @@
-HMC6343 Breakout
-================
+SparkFun HMC6343 Breakout
+=========================
 
-[![HMC6343 Breakout](https://cdn.sparkfun.com/assets/learn_tutorials/2/6/5/hmc6343_angled.jpg)   
-*High End Magnetometer Breakout-HMC6343 (SEN-12916)*](https://www.sparkfun.com/products/12916)
+![HMC6343 Breakout](https://cdn.sparkfun.com/assets/learn_tutorials/2/6/5/hmc6343_angled.jpg)   
+
+[*SparkFun HMC6343 Breakout (SEN-12916)*](https://www.sparkfun.com/products/12916)
 
 A Breakout Board for the high end HMC6343 magnetometer.
 
 Repository Contents
 -------------------
-* **/hardware** - All Eagle design files (.brd, .sch)
-* **/libraries** - Contains the Arduino library and examples for the sensor
-* **/production** - Test bed files and production panel files
+* **/Hardware** - All Eagle design files (.brd, .sch)
+* **/Libraries** - Contains the Arduino library and examples for the sensor
+* **/Production** - Test bed files and production panel files
+
+
+Documentation
+--------------
+* **[Library](https://github.com/sparkfun/SparkFun_HMC6343_Arduino_Library)** - Arduino library for the HMC6343.
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/hmc6343-3-axis-compass-hookup-guide)** - Basic hookup guide for the HMC6343.
+* **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
+* **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
+* **[SparkFun Graphical Datasheets](https://github.com/sparkfun/Graphical_Datasheets)** -Graphical Datasheets for various SparkFun products.
+
+
+Version History
+---------------
+
+* [v_H1.0_L1.1.0](https://github.com/sparkfun/HMC6343_Breakout/tree/v_H1.0_L1.1.0) - Hardware version 1.0, library version 1.1.0. Compatible with Arduino 1.6+ 
+* [vH10F10](https://github.com/sparkfun/HMC6343_Breakout/tree/vH10F10) - Hardware version 1.0, firmware version 1.0
 
 
 License Information
 -------------------
-The hardware is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
+
+This product is _**open source**_! 
+
+Please review the LICENSE.md file for license information. 
+
+If you have any questions or concerns on licensing, please contact techsupport@sparkfun.com.
 
 Distributed as-is; no warranty is given.
+
+- Your friends at SparkFun.
