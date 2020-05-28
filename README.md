@@ -1,7 +1,7 @@
 SparkFun HMC6343 Breakout
 =========================
 
-![HMC6343 Breakout](https://cdn.sparkfun.com/assets/learn_tutorials/2/6/5/hmc6343_angled.jpg)   
+[![HMC6343 Breakout](https://cdn.sparkfun.com/assets/learn_tutorials/2/6/5/hmc6343_angled.jpg)](https://www.sparkfun.com/products/12916)
 
 [*SparkFun HMC6343 Breakout (SEN-12916)*](https://www.sparkfun.com/products/12916)
 
@@ -11,7 +11,6 @@ The HMC6343 is a fully integrated high end electronic compass module that can co
 Repository Contents
 -------------------
 * **/Hardware** - All Eagle design files (.brd, .sch)
-* **/Libraries** - Contains the Arduino library and examples for the sensor
 * **/Production** - Test bed files and production panel files
 
 
@@ -38,7 +37,7 @@ This product is _**open source**_!
 
 Please review the LICENSE.md file for license information. 
 
-If you have any questions or concerns on licensing, please contact techsupport@sparkfun.com.
+If you have any questions or concerns on licensing, please contact technical support on our [SparkFun forums](https://forum.sparkfun.com/viewforum.php?f=152).
 
 Distributed as-is; no warranty is given.
 
